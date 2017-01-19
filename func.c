@@ -6,5 +6,6 @@ char *getStudentID(char *id)
 
 	/* ddd */
 	/* ddd */
+	/* ddd */
 	return id;
 }
